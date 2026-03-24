@@ -1,0 +1,19 @@
+# Keil 编译产物目录
+DebugConfig/
+Listings/
+Objects/
+# 编译产物文件
+*.axf
+*.hex
+*.bin
+*.o
+*.d
+*.lst
+*.map
+*.dep
+# Keil 配置缓存
+*.uvoptx
+*.uvguix
+# 系统垃圾
+.DS_Store
+Thumbs.db
